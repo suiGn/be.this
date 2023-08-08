@@ -1,3 +1,4 @@
+<img src="./_._.svg" alt="SVG Image" width="123" height="123" style="width123px; height:123px;">
 # BE.THIS 
 
 Imagine the npm modules "this.be" and "be.this" as dynamic entities in the realm of JavaScript, with each having its own defined role in a system.
