@@ -33,7 +33,7 @@ In summary, these modules, with their elegant designs, offer a blueprint for eff
 ------
 
 # THIS DEMO Playground
-Welcome to the THIS.ME Playground, where the entire THIS.ME suite comes together with NEURONS.ME to provide a rich development and execution environment for your AI adventures.
+Welcome to the Playground, where the entire suite comes together to provide a rich development and execution environment for your AI adventures.
 ## DEMO Quick Start
 ### 1. Clone the Repository
 
