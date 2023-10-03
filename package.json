@@ -2,8 +2,9 @@
   "name": "be.this",
   "version": "1.2.1",
   "description": "this.be to be.this for this.me",
-  "main": "be.this.js",
+  "main": "this.js",
   "scripts": {
+    "start": "node main.js",
     "test": "test"
   },
   "repository": {
