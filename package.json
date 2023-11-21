@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/suiGn/be.this/issues"
   },
-  "homepage": "https://github.com/suiGn/be.this#readme"
+  "homepage": "https://github.com/suiGn/be.this#readme",
+  "repoType": "NPM Package"
 }
