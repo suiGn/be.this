@@ -14,11 +14,11 @@
   "keywords": [
     "JavaScript"
   ],
-  "author": "suiGN",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/suiGn/be.this/issues"
   },
   "homepage": "https://github.com/suiGn/be.this#readme",
+  "author": "suiGN",
+  "license": "MIT",
   "repoType": "NPM Package"
 }
