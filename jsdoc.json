@@ -4,7 +4,8 @@
   },
   "opts": {
     "destination": "./docs",
-    "template": "../neurons.me/src/assets/better-docs"
+    "template": "../neurons.me/src/assets/better-docs",
+    "readme": "./README.md"
   },
   "templates": {
     "cleverLinks": false,
@@ -24,6 +25,10 @@
         "trackingCode": "...",
   "hideGenerator": false,
         "navLinks": [
+          {
+            "label": "Home",
+            "href": "https://suign.github.io/pages/sourcecode.html"
+        },
             {
                 "label": "Github",
                 "href": "https://github.com/suiGn/be.this"
