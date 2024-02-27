@@ -1,6 +1,6 @@
 {
   "name": "be.this",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "this.be to be.this for this.me",
   "main": "this.js",
   "scripts": {
