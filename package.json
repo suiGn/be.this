@@ -2,7 +2,7 @@
   "name": "be.this",
   "version": "1.2.33",
   "description": "this.be to be.this for this.me",
-  "main": "this.js",
+  "main": "index.js",
   "scripts": {
     "start": "node main.js",
     "test": "test"
