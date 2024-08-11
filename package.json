@@ -11,11 +11,11 @@
     "JavaScript"
   ],
   "bugs": {
-    "url": "https://github.com/suiGn/be.this/issues"
+    "url": "https://github.com/neurons-me/be.this/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/suiGn/be.this.git"
+    "url": "git+https://github.com/neurons-me/be.this.git"
   },
   "homepage": "https://www.npmjs.com/package/be.this",
   "docs": "https://suiGn.github.io/be.this",
