@@ -1,9 +1,8 @@
-<img src="https://suign.github.io/neurons.me/neurons_logo.png" alt="Be.This" width="123" height="123" style="width123px; height:123px;">
+<img src="https://neurons-me.github.io/imgs/Euclid/An_acute_angle_is_an_angle_less_than_a_right_angle-removebg-preview" alt="Be.This" width="123" height="123">
 
 # BE.THIS 
 ----------
-# Introduction
-Designed to empower users in defining, managing, and utilizing data functions effectively.
+State and Effects
 -----------
 
 
